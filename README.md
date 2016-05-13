@@ -1,0 +1,2 @@
+# widgets
+Виджиты для widgetkit
